@@ -1,0 +1,38 @@
+/* .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: hsl(219, 48%, 8%);
+  height: 8vh;
+}
+
+.navbar-logo img {
+  width: 250px;
+  height: 180px;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-link {
+  color: hsl(250, 100%, 75%);
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.navbar-profile .profile-icon {
+  color: hsl(250, 100%, 75%);
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.navbar-profile .profile-icon:hover {
+  color: white;
+} */
